@@ -28,33 +28,29 @@
 </div>
 
 <br>
-
 <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
-
+    
 <a href="https://stars.github.com/nominate/">
     <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
 </a>
-
 </div>
 
-
+<img align="right" alt="PNG" src="my_logo-t.png" width="334" height="474" />
+<br>
 ### A Developer & Trainer
-
-<img align="right" alt="PNG" src="my_logo.png" width="334" height="474" />
+<br>
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active DSC Lead at [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
-- ✍ Technical writer at Medium
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 [Portfolio][profile]
+- 🙋‍♂️ Founder of [GDG Beni-Suef][gdg]
+- 💻 The tech I'm interested in AI, Django and Problem Solving
+- ✍ Technical Instructor
+- ✨ I'm Developing Flutter, Web scrapping, Automations etc.
+- <img src="https://img.icons8.com/emoji/48/000000/brain-emoji.png" width="20" height="20" /> Problem solver at [codeforces], [hackerrank]
+- 📄 [Website][profile]
 
-### Languages & Tools
+<!-- ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -62,8 +58,13 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
+ 
+ <br>
+ <br>
+ <br>
+ <br>
 
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
@@ -73,7 +74,6 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 
 
 </div>
@@ -86,8 +86,11 @@
 [![Mokhtar's github stats](https://github-readme-stats.vercel.app/api?username=00AhmedMokhtar00&theme=gotham)](https://github.com/00AhmedMokhtar00/github-readme-stats)
 
 
-Open Source Contributor from <b>Egypt<b> 💚
+Open Source Contributor from <b>Egypt<b> 💙
 
 ![](https://visitor-badge.glitch.me/badge?page_id=00AhmedMokhtar00.00AhmedMokhtar00)
 
 [profile]: https://00ahmedmokhtar00.github.io
+[gdg]: https://gdg.community.dev/gdg-beni-suef/#
+[codeforces]: https://codeforces.com/profile/00Mokhtar00
+[hackerrank]: https://www.hackerrank.com/ahmedmokhtar7711
