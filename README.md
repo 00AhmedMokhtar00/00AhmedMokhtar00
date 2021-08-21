@@ -2,6 +2,9 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
+<a href="https://wa.me/201115951169?text=Hi Mokhtar">
+    <img src="https://img.shields.io/badge/Whatsapp-23bc5e?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 <a href="https://twitter.com/00Mokhtar00/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -15,7 +18,7 @@
 </a>
 
 <a href="https://www.upwork.com/freelancers/~019c71ca4133d4f65d">
-    <img src="https://img.shields.io/badge/Upwork-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Upwork-00a732?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/moralityLiveUp">
