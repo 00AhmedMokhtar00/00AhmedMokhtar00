@@ -83,14 +83,11 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Mokhtar's github stats](https://github-readme-stats.vercel.app/api?username=00AhmedMokhtar00&theme=gotham)](https://github.com/00AhmedMokhtar00/github-readme-stats)
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
+Open Source Contributor from <b>Egypt<b> 💚
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
+![](https://visitor-badge.glitch.me/badge?page_id=00AhmedMokhtar00.00AhmedMokhtar00)
 
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
+[profile]: https://00ahmedmokhtar00.github.io
