@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<!-- <a href="https://www.instagram.com/mhmzdev/">
+<a href="https://www.instagram.com/ahmedmokhtar156/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> -->
+</a>
 
 <a href="https://www.linkedin.com/in/00mokhtar00/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ### A Developer & Trainer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="PNG" src="my_logo.png" width="334" height="474" />
 
 #### Talking about my personal stuff:
 
