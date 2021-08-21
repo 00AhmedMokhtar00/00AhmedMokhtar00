@@ -38,8 +38,8 @@
 
 <img align="right" alt="PNG" src="my_logo-t.png" width="334" height="474" />
 <br>
+
 ### A Developer & Trainer
-<br>
 
 #### Talking about my personal stuff:
 
