@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://wa.me/201115951169?text=Hi Mokhtar">
+<a href="https://wa.me/966544578691?text=Hi Mokhtar">
     <img src="https://img.shields.io/badge/Whatsapp-23bc5e?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://twitter.com/00Mokhtar00/">
@@ -47,9 +47,9 @@
 #### Talking about my personal stuff:
 
 - 🙋‍♂️ Founder of [GDG Beni-Suef][gdg]
-- 💻 The tech I'm interested in AI, Django and Problem Solving
+- 💻 The tech I'm interested in AI, Backend, Clean Code and Problem Solving
 - ✍ Technical Instructor
-- ✨ I'm Developing Django, Flutter, Web scrapping, Automations etc.
+- ✨ I'm Developing .NETCore, Angular, Flutter, Web scrapping, Automations etc.
 - <img src="https://img.icons8.com/emoji/48/000000/brain-emoji.png" width="20" height="20" /> Problem solver at [codeforces], [hackerrank]
 - 📄 [Website][profile]
 
