@@ -96,7 +96,7 @@ Open Source Contributor from <b>Egypt<b> 💙
 
 ![](https://visitor-badge.glitch.me/badge?page_id=00AhmedMokhtar00.00AhmedMokhtar00)
 
-[profile]: https://00ahmedmokhtar00.github.io
+[profile]: https://mokhtar-portfolio.vercel.app
 [gdg]: https://gdg.community.dev/gdg-beni-suef/#
 [codeforces]: https://codeforces.com/profile/00Mokhtar00
 [hackerrank]: https://www.hackerrank.com/ahmedmokhtar7711
