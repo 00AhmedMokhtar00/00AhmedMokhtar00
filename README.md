@@ -49,7 +49,7 @@
 - 🙋‍♂️ Founder of [GDG Beni-Suef][gdg]
 - 💻 The tech I'm interested in AI, Backend, Clean Code and Problem Solving
 - ✍ Technical Instructor
-- ✨ I'm Developing .NETCore, Angular, Flutter, Web scrapping, Automations etc.
+- ✨ I'm Developing .NET, Angular, Flutter, Web scrapping, Automations etc.
 - <img src="https://img.icons8.com/emoji/48/000000/brain-emoji.png" width="20" height="20" /> Problem solver at [codeforces], [hackerrank]
 - 📄 [Website][profile]
 
